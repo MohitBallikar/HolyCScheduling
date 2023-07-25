@@ -7,3 +7,5 @@ https://github.com/nrootconauto/HolyCC2
 https://minexew.github.io/2020/03/29/templeos-loader-part2.html
 
 https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc
+
+https://tinkeros.github.io/WbGit/Doc/HolyC.html
