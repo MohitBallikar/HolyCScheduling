@@ -2,6 +2,8 @@ below are some links/resources that helped me along this journey:
 
 https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZNUvTX1pqfpI_tMkhWCLYL
 
+https://gitlab.com/tsoding/aoc-2021
+
 https://github.com/nrootconauto/HolyCC2
 
 https://minexew.github.io/2020/03/29/templeos-loader-part2.html
