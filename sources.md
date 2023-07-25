@@ -15,3 +15,5 @@ https://tinkeros.github.io/WbGit/Doc/HolyC.html
 https://www.youtube.com/playlist?list=PL4hc-IGBXxLiqmGOjK5P5N2zMn7qqKOfR (kinda painful to watch, still helpful nonetheless)
 
 https://github.com/barrettotte/TempleOS-and-HolyC (provided simple pointers towards navigating and using the TempleOS environment)
+
+https://rosettacode.org/wiki/Category:HolyC
