@@ -9,3 +9,5 @@ https://minexew.github.io/2020/03/29/templeos-loader-part2.html
 https://harrison.totty.dev/p/a-lang-design-analysis-of-holyc
 
 https://tinkeros.github.io/WbGit/Doc/HolyC.html
+
+https://www.youtube.com/playlist?list=PL4hc-IGBXxLiqmGOjK5P5N2zMn7qqKOfR (kinda painful to watch, still helpful nonetheless)
