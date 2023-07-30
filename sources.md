@@ -23,3 +23,5 @@ https://youtu.be/1KmNIuY0OYo (Task Scheduling understanding with the default met
 https://teaskittle.neocities.org/holyc (aided with syntax and structuring)
 
 http://www.codersnotes.com/notes/a-constructive-look-at-templeos/
+
+https://archive.org/download/TerryADavis_TempleOS_Archive/ (Archive of Terry Davis' (TempleOS) works, was helpful in hearing how things worked from the source)
