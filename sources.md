@@ -21,3 +21,5 @@ https://rosettacode.org/wiki/Category:HolyC (A very good resource for understand
 https://youtu.be/1KmNIuY0OYo (Task Scheduling understanding with the default method)
 
 https://teaskittle.neocities.org/holyc (aided with syntax and structuring)
+
+http://www.codersnotes.com/notes/a-constructive-look-at-templeos/
