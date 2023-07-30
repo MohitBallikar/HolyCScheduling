@@ -16,4 +16,6 @@ https://www.youtube.com/playlist?list=PL4hc-IGBXxLiqmGOjK5P5N2zMn7qqKOfR (kinda 
 
 https://github.com/barrettotte/TempleOS-and-HolyC (provided simple pointers towards navigating and using the TempleOS environment)
 
-https://rosettacode.org/wiki/Category:HolyC
+https://rosettacode.org/wiki/Category:HolyC (A very good resource for understanding syntax and implementation for a variety of applications and structures within this language. Helped translate some concepts)
+
+https://youtu.be/1KmNIuY0OYo (Task Scheduling understanding with the default method)
