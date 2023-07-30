@@ -20,3 +20,7 @@ _Another thing to note, despite TempleOS' scheduler using a round-robin algorith
 _After spending another ~100 lines of code scrolling and deciphering the methods, it was apparent that I would need to establish a greater basis of knowledge for MIPS and other assembly languages_
 _The HolyC functions that I was hoping to work with only seemed to act as helper functions. The assembly doing all the heavy lifting at the lowest levels, and the HolyC translating this upwards_
 _This was disheartening to a degree as many of the programming/hacking I found online with regards to resources focused on HolyC and not the assembly directly. In addition, programming in assembly with such bottle-necked hardware utilization seemed torturous, regardless of the time-frame._
+
+
+![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/7e2c77c2-67ad-42bb-ab5d-fed53fe15943)
+_After a lot of searching and some kernel changes I could have the basic terminal running in 60 frames. Though there would still be stuttering in the cpu utilization, it was bounds better than the prior set-up_
