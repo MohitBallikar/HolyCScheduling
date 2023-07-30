@@ -19,3 +19,5 @@ https://github.com/barrettotte/TempleOS-and-HolyC (provided simple pointers towa
 https://rosettacode.org/wiki/Category:HolyC (A very good resource for understanding syntax and implementation for a variety of applications and structures within this language. Helped translate some concepts)
 
 https://youtu.be/1KmNIuY0OYo (Task Scheduling understanding with the default method)
+
+https://teaskittle.neocities.org/holyc (aided with syntax and structuring)
