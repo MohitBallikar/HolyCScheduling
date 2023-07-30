@@ -1,6 +1,7 @@
 (Some if not most screenshots were taken retroactively to help with the presentational portion and for greater context)
 
 ![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/6de02a01-17ca-47f2-86da-6543de683850)
+
 _Above are the three environments that I used for working through this project_
 
 
