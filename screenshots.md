@@ -1,4 +1,4 @@
-(Some if not most screenshots were taken retroactively to help with the speaking portion and for greater context)
+(Some if not most screenshots were taken retroactively to help with the presentational portion and for greater context)
 
 ![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/6de02a01-17ca-47f2-86da-6543de683850)
 _Above are the three environments that I used for working through this project_
@@ -14,4 +14,6 @@ _Another thing to note, despite TempleOS' scheduler using a round-robin algorith
 
 
 ![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/5ff8d6cf-8577-4a54-b4e9-91962b18cf22)
-__
+_After spending another ~100 lines of code scrolling and deciphering the methods, it was apparent that I would need to establish a greater basis of knowledge for MIPS and other assembly languages_
+_The HolyC functions that I was hoping to work with only seemed to act as helper functions. The assembly doing all the heavy lifting at the lowest levels, and the HolyC translating this upwards_
+_This was disheartening to a degree as many of the programming/hacking I found online with regards to resources focused on HolyC and not the assembly directly. In addition, programming in assembly with such bottle-necked hardware utilization seemed torturous, regardless of the time-frame._
