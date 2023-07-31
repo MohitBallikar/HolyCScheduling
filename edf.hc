@@ -11,7 +11,8 @@ U0 swap(I32 *a, I32 *b)
     *b = temp;
 }
 
-U0 sort_by_ed(I32 release_time[], I32 deadline[], I32 computation_time[], I32 n) {
+U0 sort_by_ed(I32 release_time[], I32 deadline[], I32 computation_time[], I32 n)
+{
     for (I32 i = 0; i < n - 1; i++)
     {
         for (I32 j = 0; j < n - i - 1; j++)
@@ -63,7 +64,7 @@ I32 main()
         GetI64("%d %d %d", &release_time[i], &deadline[i], &computation_time[i]);
     }
 
-    earliest_deadline_first(release_time, deadline, computation_time, n);
+    edf(release_time, deadline, computation_time, n);
 
     return 0;
 }
