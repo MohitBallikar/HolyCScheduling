@@ -1,4 +1,4 @@
-(Some if not most screenshots were taken retroactively to help with the presentational portion and for greater context)
+![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/1277fdf1-04d9-48ba-9a06-1481be499de8)(Some if not most screenshots were taken retroactively to help with the presentational portion and for greater context)
 
 ![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/6de02a01-17ca-47f2-86da-6543de683850)
 
@@ -24,3 +24,8 @@ _This was disheartening to a degree as many of the programming/hacking I found o
 
 ![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/7e2c77c2-67ad-42bb-ab5d-fed53fe15943)
 _After a lot of searching and some kernel changes I could have the basic terminal running in 60 frames. Though there would still be stuttering in the cpu utilization, it was bounds better than the prior set-up_
+
+
+![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/83bfe797-9161-4e3e-813f-96ab552978f4)
+_Wrote out some basic edf code to ensure that all syntax is viable._
+
