@@ -1,4 +1,4 @@
-![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/1277fdf1-04d9-48ba-9a06-1481be499de8)(Some if not most screenshots were taken retroactively to help with the presentational portion and for greater context)
+(Some if not most screenshots were taken retroactively to help with the presentational portion and for greater context)
 
 ![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/6de02a01-17ca-47f2-86da-6543de683850)
 
