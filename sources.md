@@ -1,4 +1,4 @@
-below are some links/resources that helped me along this journey:
+_**below are some links/resources that helped me along this journey:**_
 
 https://www.youtube.com/playlist?list=PLpM-Dvs8t0VZNUvTX1pqfpI_tMkhWCLYL
 
@@ -25,3 +25,5 @@ https://teaskittle.neocities.org/holyc (aided with syntax and structuring)
 http://www.codersnotes.com/notes/a-constructive-look-at-templeos/
 
 https://archive.org/download/TerryADavis_TempleOS_Archive/ (Archive of Terry Davis' (TempleOS) works, was helpful in hearing how things worked from the source)
+
+https://youtu.be/xvCOqm4nMRU (Helpful in understanding how 64 bit x86 assembly is being used within the compiler and the syntax being used)
