@@ -29,3 +29,11 @@ _After a lot of searching and some kernel changes I could have the basic termina
 ![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/83bfe797-9161-4e3e-813f-96ab552978f4)
 _Wrote out some basic edf code to ensure that all syntax is viable._
 
+
+![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/4e6f934a-79f9-4db9-a39d-9720c9ec8d3b)
+_Upon saving and compiling this code I am met with some errors. I believe this may be due to my current working directory._
+
+
+![image](https://github.com/MohitBallikar/HolyCScheduling/assets/89613841/223fd8c0-b1c5-449e-8883-5d2fb82ef7b3)
+_Upon facing the same issues within the TempleOS instance, I sought out decoupled HolyC compilers within any distros of Linux. Unfortunately, I would have to work with Arch-Linux which took some time to set up and would not expand beyond a tiny window, regardless of reaserch/troubleshooting._
+
