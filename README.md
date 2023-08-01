@@ -1,6 +1,6 @@
 # HolyCScheduling
 
-The original goal of this project was to implement scheduling algorithms within the TempleOs environment.
+The original goal of this project was to implement scheduling algorithms within the TempleOS environment.
 After some built up proficiency and navigation skills, learning and implementing the language was not terrible.
 Issues at hand mostly arose from tooling. Error trouble-shooting was spent the most time on with research being close and actual programming/analyzation being a lot easier to work through.
 Learning/understanding HolyC was not as complicated as I imagined due to many syntactical features borrowing from C and C++. Compiling and structuring this in accordance to the compiler in TempleOS took the majority of this "programming" time.
