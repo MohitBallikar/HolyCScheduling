@@ -11,7 +11,7 @@ U0 swap(I32 *a, I32 *b)
     *b = temp;
 }
 
-U0 sort_by_ed(I32 release_time[], I32 deadline[], I32 computation_time[], I32 n)
+U0 sort(I32 release_time[], I32 deadline[], I32 computation_time[], I32 n)
 {
     for (I32 i = 0; i < n - 1; i++)
     {
@@ -31,7 +31,7 @@ U0 edf(I32 release_time[], I32 deadline[], I32 computation_time[], I32 n)
 {
     I32 current_time = 0;
 
-    sort_by_ed(release_time, deadline, computation_time, n);
+    sort(release_time, deadline, computation_time, n);
 
     Print("Schedule:\n");
     for (I32 i = 0; i < n; i++) 
